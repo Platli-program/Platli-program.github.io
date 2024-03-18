@@ -1,0 +1,20 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+body {
+    background-color: #1D212B;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h2 {
+    color: #fff;
+    font-family: "Poppins", sans-serif;
+    font-weight: 800;
+    font-size: 60px;
+    text-transform: uppercase;
+}
